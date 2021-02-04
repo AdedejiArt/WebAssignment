@@ -1,0 +1,7 @@
+img{
+    max-width: 10;
+    max-height: min-content;
+    min-height: 0%;
+    width: 200;
+    height: 100;
+}
